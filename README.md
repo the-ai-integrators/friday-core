@@ -28,6 +28,12 @@ This open-core edition includes:
 
 ------------------------------------------------------------------------
 
+## 📘 Friday Core Architecture
+
+![Friday Core Architecture](./docs/01-public-friday-core.png)
+
+------------------------------------------------------------------------
+
 ## ✨ Features (Public Edition)
 
 -   Lightweight LangGraph workflow
