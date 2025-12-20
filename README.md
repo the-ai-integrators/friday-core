@@ -11,6 +11,10 @@ workflows*
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen" />
 </p>
 
+> **Note**  
+> Friday is a personal open-source project built for learning and experimentation with multi-agent orchestration patterns.  
+> It is not affiliated with any employer, customer, or commercial offering.
+
 ------------------------------------------------------------------------
 
 ## 🌟 Overview
